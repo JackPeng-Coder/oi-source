@@ -12,10 +12,10 @@ int main() {
     cin.tie(nullptr);
     cout.tie(nullptr);
 
-    fstream cin;
-    cin.open("LUOGU/CONTEST/mexdnc2.in", ios::in);
-    fstream cout;
-    cout.open("LUOGU/CONTEST/mexdnc2.ans", ios::out);
+    // fstream cin;
+    // cin.open("LUOGU/CONTEST/mexdnc2.in", ios::in);
+    // fstream cout;
+    // cout.open("LUOGU/CONTEST/mexdnc2.ans", ios::out);
     
     int T;
     cin >> T;
